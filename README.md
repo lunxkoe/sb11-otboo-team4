@@ -1,6 +1,6 @@
 > 코드잇 스프린트 팀 프로젝트(4팀)를 개인 아카이브용으로 복제한 저장소입니다.
 > 원본: https://github.com/sb11-code-rangers/sb11-otboo-team4
-> 이슈·PR·코드리뷰 기록은 원본에 있습니다.
+> 이슈·PR·코드리뷰 기록은 원본에 있습니다. (Zrp0x0 계정입니다.)
 
 ---
 # Otboo (옷장을 부탁해) [![codecov](https://codecov.io/gh/sb11-code-rangers/sb11-otboo-team4/graph/badge.svg)](https://codecov.io/gh/sb11-code-rangers/sb11-otboo-team4)
